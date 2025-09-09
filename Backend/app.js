@@ -13,7 +13,7 @@ connectToDb();
 
 // Middleware
 app.use(cors({
-  origin: "http://localhost:5173",
+  origin: "https://sakibchatbox1.vercel.app",
   credentials: true,
 }));
 app.use(express.json());
