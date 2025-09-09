@@ -1,2 +1,2 @@
-const Base_url = "http://localhost:5500/api";
+const Base_url = "https://sakibchatbox1.onrender.com/api";
 export default Base_url;
